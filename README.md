@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello！ 👋
+你好w~！我是YiYun工作室的创建者，同时也是一个福瑞控，欢迎交友
+- 我的哔哩哔哩直播账号主页：[n](https://space.bilibili.com/3493130032646858/) 🚀
+- 我的哔哩哔哩个人主页：[n](https://space.bilibili.com/1995390292/) 🚀
 <!--
 **yangyanMC/yangyanMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
