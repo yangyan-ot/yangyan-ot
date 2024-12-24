@@ -1,7 +1,9 @@
 ## Hello！ 👋
-你好w~！我是YiYun工作室的创建者，同时也是一个福瑞控，欢迎交友
+你好w~！我是杨焱，YiYun工作室（YiYun Studio）的创建者，同时也是一个福瑞控，欢迎交友
 - 我的哔哩哔哩直播账号主页：[BiliBili链接](https://space.bilibili.com/3493130032646858/) 🚀
 - 我的哔哩哔哩个人主页：[BiliBili链接](https://space.bilibili.com/1995390292/) 🚀
+- 我的兴趣爱好：EEW | 地震、地质 | Minecraft |
+- 我的网站：[网站连接](http://yiyuneewapp.frp.cx/)🚀
 ###
 我现在会的编程语言：
 ###
@@ -9,7 +11,7 @@
 ###
 统计：
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyanMC&show_icons=true&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangyan-ot&show_icons=true&locale=cn)
 <!--
 **yangyanMC/yangyanMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
