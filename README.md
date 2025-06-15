@@ -8,7 +8,8 @@
 ###
 我现在会的编程语言：
 ###
-![Epl](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-Epl-red)![Node.js](https://img.shields.io/badge/JS-Node.js-red)
+![Epl](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-Epl-red)
+![Node.js](https://img.shields.io/badge/JS-Node.js-red)
 
 ###
 统计：
