@@ -1,16 +1,12 @@
 ## Hello！ 👋
 你好w~！我叫杨焱，来自中国四川，是YiYun工作室（YiYun Studio）的创建者，同时也是一个福瑞控~~同时也是一个鸽子~~，欢迎交友
 - 我的兴趣爱好：EEW | 地震、地质 | Minecraft | 福瑞（furry）| 业余无线电 | ADS-B
-- 我的哔哩哔哩直播账号主页：[BiliBili链接](https://space.bilibili.com/3493130032646858/) 🚀
 - 我的哔哩哔哩个人主页：[BiliBili链接](https://space.bilibili.com/1995390292/) 🚀
-- 我的EEW网站：[网站链接](http://eewapp.top/)🚀
+- 我的个人网站：[网站链接](http://yangyanot.top/)🚀
 ###
 我现在会的编程语言：
 ###
-![Epl](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-Epl-red)
 ![Node.js](https://img.shields.io/badge/JS-Node.js-red)
-![GoLang](https://img.shields.io/badge/GO-GoLang-red)
-
 ###
 统计：
 ###
